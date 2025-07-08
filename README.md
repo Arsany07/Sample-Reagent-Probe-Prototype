@@ -24,5 +24,6 @@ This project involves the design and implementation of a **hardware prototype** 
 
 ## 📸 Media
 
-- 📷 [Prototype Image]((https://drive.google.com/file/d/1fnyitWNrCJUJuZKQsFhwHw6KTnc7l1Dw/view?usp=sharing)) folder.
-- 🎥 [Demonstration Video]((https://drive.google.com/file/d/1EJMo-bIt_4AePZH48_HFym-J2jHEuop9/view?usp=sharing)) folder.
+- 📷 [Prototype Image](https://drive.google.com/file/d/1fnyitWNrCJUJuZKQsFhwHw6KTnc7l1Dw/view?usp=sharing)
+- 🎥 [Demonstration Video](https://drive.google.com/file/d/1EJMo-bIt_4AePZH48_HFym-J2jHEuop9/view?usp=sharing)
+
